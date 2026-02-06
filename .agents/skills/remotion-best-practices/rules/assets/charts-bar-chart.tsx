@@ -1,3 +1,6 @@
+
+
+
 import {loadFont} from '@remotion/google-fonts/Inter';
 import {AbsoluteFill, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 
